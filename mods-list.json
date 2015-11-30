@@ -289,6 +289,11 @@
 			"name": "OpenBlocks",
 			"version": "1.4.4",
 			"url": "http://www.openmods.info/"
+		},
+		{
+			"name": "QmunityLib",
+			"version": "0.1.114",
+			"url": "http://www.curse.com/mc-mods/minecraft/224785-qmunitylib"
 		}
 	],
 	"recommended": [
