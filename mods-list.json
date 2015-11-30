@@ -21,6 +21,11 @@
 			"url": "http://www.mod-buildcraft.com/pages/download.html"
 		},
 		{
+			"name": "BuildCraft Compat",
+			"version": "7.0.9",
+			"url": "http://www.curse.com/mc-mods/minecraft/233140-buildcraft-compat#t1:other-downloads"
+		},
+		{
 			"name": "AdditionalPipes",
 			"version": "4.7.0",
 			"url": "https://github.com/tcooc/AdditionalPipesBC/releases"
@@ -294,6 +299,11 @@
 			"name": "QmunityLib",
 			"version": "0.1.114",
 			"url": "http://www.curse.com/mc-mods/minecraft/224785-qmunitylib"
+		},
+		{
+			"name": "CodeChickenCore",
+			"version": "1.0.6.44",
+			"url": "http://chickenbones.net/Pages/links.html"
 		}
 	],
 	"recommended": [
@@ -306,11 +316,6 @@
 			"name": "Waila",
 			"version": "1.5.10",
 			"url": "http://www.curse.com/mc-mods/minecraft/waila#t1:other-downloads"
-		},
-		{
-			"name": "CodeChickenCore",
-			"version": "1.0.6.44",
-			"url": "http://chickenbones.net/Pages/links.html"
 		}
 	],
 	"server-side": [
