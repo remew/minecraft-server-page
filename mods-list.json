@@ -6,6 +6,11 @@
 			"url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html"
 		},
 		{
+			"name": "BluePower",
+			"version": "0.2.962",
+			"url": "http://minecraft.curseforge.com/projects/blue-power/files"
+		},
+		{
 			"name": "BuildCraft",
 			"version": "7.0.9",
 			"url": "http://www.mod-buildcraft.com/pages/download.html"
