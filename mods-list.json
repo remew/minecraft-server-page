@@ -304,6 +304,11 @@
 			"name": "CodeChickenCore",
 			"version": "1.0.6.44",
 			"url": "http://chickenbones.net/Pages/links.html"
+		},
+		{
+			"name": "MFRAddon",
+			"version": "1.7.x r5",
+			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=2150"
 		}
 	],
 	"recommended": [
