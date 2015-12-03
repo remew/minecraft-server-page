@@ -3,311 +3,377 @@
 		{
 			"name": "Minecraft Forge",
 			"version": "10.13.4.1558",
+			"priority": "5",
 			"url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html"
 		},
 		{
 			"name": "RailCraft",
 			"version": "9.8.0.0",
+			"priority": "3",
 			"url": "http://www.railcraft.info/releases/"
 		},
 		{
 			"name": "BluePower",
 			"version": "0.2.962",
+			"priority": "4",
 			"url": "http://minecraft.curseforge.com/projects/blue-power/files"
 		},
 		{
 			"name": "BuildCraft",
 			"version": "7.0.9",
+			"priority": "5",
 			"url": "http://www.mod-buildcraft.com/pages/download.html"
 		},
 		{
 			"name": "BuildCraft Compat",
 			"version": "7.0.9",
+			"priority": "5",
 			"url": "http://www.curse.com/mc-mods/minecraft/233140-buildcraft-compat#t1:other-downloads"
 		},
 		{
 			"name": "AdditionalPipes",
 			"version": "4.7.0",
+			"priority": "5",
 			"url": "https://github.com/tcooc/AdditionalPipesBC/releases"
 		},
 		{
 			"name": "LogisticsPipes",
 			"version": "0.9.1.15",
+			"priority": "5",
 			"url": "http://ci.thezorro266.com/job/LogisticsPipes-0.9-mc17-bc7/"
 		},
 		{
 			"name": "ExtraTanks",
 			"version": "for BC7.0.9~",
+			"priority": "5",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=2150"
 		},
 		{
 			"name": "QuarryPlus",
 			"version": "2.1.0",
+			"priority": "5",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=8076"
 		},
 		{
 			"name": "IndustrialCraft2 experimental",
 			"version": "2.2.796",
+			"priority": "5",
 			"url": "http://jenkins.ic2.player.to/job/IC2_experimental/"
 		},
 		{
 			"name": "GregTech Unofficial",
 			"version": "5.08.32",
+			"priority": "5",
 			"url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=11488"
 		},
 		{
 			"name": "Advanced Solar Panels",
 			"version": "3.5.1",
+			"priority": "5",
 			"url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291"
 		},
 		{
 			"name": "ModularPowersuits",
 			"version": "0.11.0.284",
+			"priority": "5",
+			"require": "Numina",
 			"url": "http://minecraft.curseforge.com/projects/modular-powersuits/files"
 		},
 		{
 			"name": "Numina",
 			"version": "0.4.0.119",
+			"priority": "5",
 			"url": "http://minecraft.curseforge.com/projects/numina"
 		},
 		{
 			"name": "CoFH Core",
 			"version": "3.0.3-303",
+			"priority": "3",
 			"url": "http://teamcofh.com/downloads/"
 		},
 		{
 			"name": "MineFactory Reloaded",
 			"version": "2.8.0-104",
+			"priority": "3",
+			"require": "CoFH Core",
 			"url": "http://teamcofh.com/downloads/"
 		},
 		{
 			"name": "Applied Energistics2",
 			"version": "rv2.stable build 10",
+			"priority": "5",
 			"url": "http://ae-mod.info/Downloads/"
 		},
 		{
 			"name": "ExtraCells2",
 			"version": "2.2.73b129",
+			"priority": "5",
 			"url": "http://www.curse.com/mc-mods/minecraft/229218-extracells2"
 		},
 		{
 			"name": "Mekanism",
 			"version": "8.1.7.252",
+			"priority": "4",
 			"url": "http://aidancbrady.com/mekanism/download/"
 		},
 		{
 			"name": "MekanismGenerators",
 			"version": "8.1.7.252",
+			"priority": "4",
 			"url": "http://aidancbrady.com/mekanism/download/"
 		},
 		{
 			"name": "MekanismTools",
 			"version": "8.1.7.252",
+			"priority": "4",
 			"url": "http://aidancbrady.com/mekanism/download/"
 		},
 		{
 			"name": "ComputerCraft",
 			"version": "1.73",
+			"priority": "3.5",
 			"url": "http://www.computercraft.info/download/"
 		},
 		{
 			"name": "EnderIO",
 			"version": "2.2.8.381",
+			"priority": "4",
 			"url": "http://minecraft.curseforge.com/projects/ender-io/files"
 		},
 		{
 			"name": "Thermal Foundation",
 			"version": "1.2.0-102",
+			"priority": "4",
 			"url": "http://teamcofh.com/downloads/"
 		},
 		{
 			"name": "Thermal Expansion",
 			"version": "4.0.3B1-218",
+			"priority": "4",
 			"url": "http://teamcofh.com/downloads/"
 		},
 		{
 			"name": "Thermal Dynamics",
 			"version": "1.1.0-161",
+			"priority": "4",
 			"url": "http://teamcofh.com/downloads/"
 		},
 		{
 			"name": "OpenModularTurrets",
 			"version": "2.1.6-187",
+			"priority": "",
 			"url": "http://www.curse.com/mc-mods/minecraft/224663-openmodularturrets"
 		},
 		{
 			"name": "ArsMagica2",
 			"version": "1.4.0.008",
+			"priority": "3",
+			"require": "AnimationAPI",
 			"url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292222-ars-magica-2-version-1-4-0-008-updated-february-6"
 		},
 		{
 			"name": "AnimationAPI",
 			"version": "v1.2.4",
+			"priority": "3",
 			"url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289836-animationapi-animate-your-entities-v1-2-3"
 		},
 		{
 			"name": "AppleMilkTea2",
 			"version": "2.8o",
+			"priority": "",
 			"url": "http://defeatedcrow.wiki.fc2.com/wiki/AppleMilkTea%20ver2"
 		},
 		{
 			"name": "TofuCraft",
 			"version": "2.1.6",
+			"priority": "",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=1014"
 		},
 		{
 			"name": "AppleCore",
 			"version": "1.1.0",
+			"priority": "",
 			"url": "http://minecraft.curseforge.com/projects/applecore"
 		},
 		{
 			"name": "The Spice of Life",
 			"version": "1.3.0",
+			"priority": "1",
 			"url": "http://www.curse.com/mc-mods/minecraft/220811-the-spice-of-life"
 		},
 		{
 			"name": "竹Mod",
 			"version": "2.6.8.5",
+			"priority": "",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?t=172"
 		},
 		{
 			"name": "もみじMod",
 			"version": "v1.1.32c",
+			"priority": "",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?t=6984"
 		},
 		{
 			"name": "Kerberos's MOD Core",
 			"version": "1.0.7",
+			"priority": "",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=1573"
 		},
 		{
 			"name": "Halogen Light",
 			"version": "1.0.3",
+			"priority": "3",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=1573"
 		},
 		{
 			"name": "ExRollerCoaster",
 			"version": "1.21",
+			"priority": "4",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?t=28387"
 		},
 		{
 			"name": "WR-CBE",
 			"version": "1.4.1.9",
+			"priority": "3.5",
 			"url": "http://chickenbones.net/Pages/links.html"
 		},
 		{
 			"name": "StationMod",
 			"version": "v3",
+			"priority": "2",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=5440"
 		},
 		{
 			"name": "Invation Mod",
 			"version": "1.1.2",
+			"priority": "3",
 			"url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2235041-invasion-mod-so-you-think-your-base-is-tough"
 		},
 		{
 			"name": "Mo' Creatures Mod",
 			"version": "v6.3.1",
+			"priority": "2",
+			"require": "CustomMobSpawner",
 			"url": "http://mocreatures.org/downloads"
 		},
 		{
 			"name": "CustomMobSpawner",
 			"version": "3.3.0",
+			"priority": "2",
 			"url": "http://mocreatures.org/downloads"
 		},
 		{
 			"name": "The Twilight Forest",
 			"version": "2.3.7",
+			"priority": "2.5",
 			"url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258-the-twilight-forest-v2-3-5-wrecking-block"
 		},
 		{
 			"name": "MultiPageChest",
 			"version": "1.3.4",
+			"priority": "4",
 			"url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1275500-cubex2s-mods-all-mods-available-for-1-7-10#MultiPageChest"
 		},
 		{
 			"name": "CutAll",
 			"version": "v2.5.0",
+			"priority": "5",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=6874"
 		},
 		{
 			"name": "IronChests",
 			"version": "6.0.62.742",
+			"priority": "4",
 			"url": "http://files.minecraftforge.net/IronChests2/"
 		},
 		{
 			"name": "Kamen Rider Craft2",
 			"version": "v0.07",
+			"priority": "2",
 			"url": "http://www.planetminecraft.com/mod/kamen-rider-craft-2-forge/"
 		},
 		{
 			"name": "蛇口Mod",
 			"version": "1.0.2a",
+			"priority": "3",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=6984&start=40"
 		},
 		{
 			"name": "Lamps And Traffic Lights",
 			"version": "1.2",
+			"priority": "1",
 			"url": "http://www.planetminecraft.com/mod/splamps-and-traffic-lights-latlforge/"
 		},
 		{
 			"name": "BiblioCraft",
 			"version": "1.11.4",
+			"priority": "2",
 			"url": "http://www.bibliocraftmod.com/"
 		},
 		{
 			"name": "Forestry for Minecraft",
 			"version": "4.2.0.47",
+			"priority": "3",
 			"url": "http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads"
 		},
 		{
 			"name": "MineChem",
 			"version": "v5.0.5",
+			"priority": "3",
 			"url": "http://minecraft.curseforge.com/projects/minechem"
 		},
 		{
 			"name": "MoreTurtles",
 			"version": "2.0.2",
+			"priority": "3.5",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=17132"
 		},
 		{
 			"name": "ForgeMultipart",
 			"version": "1.2.0.345",
+			"priority": "3",
 			"url": "http://files.minecraftforge.net/ForgeMultipart/"
 		},
 		{
 			"name": "Extra Utilities",
 			"version": "1.2.12",
+			"priority": "2",
 			"url": "http://www.curse.com/mc-mods/minecraft/225561-extra-utilities"
 		},
 		{
 			"name": "MCEconomy2",
 			"version": "2.5.0.b",
+			"priority": "1",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=17110"
 		},
 		{
 			"name": "OpenModsLib",
 			"version": "0.8",
+			"priority": "1",
 			"url": "http://www.openmods.info/"
 		},
 		{
 			"name": "OpenBlocks",
 			"version": "1.4.4",
+			"priority": "1",
 			"url": "http://www.openmods.info/"
 		},
 		{
 			"name": "QmunityLib",
 			"version": "0.1.114",
+			"priority": "1",
 			"url": "http://www.curse.com/mc-mods/minecraft/224785-qmunitylib"
 		},
 		{
 			"name": "CodeChickenCore",
 			"version": "1.0.6.44",
+			"priority": "5",
 			"url": "http://chickenbones.net/Pages/links.html"
 		},
 		{
 			"name": "MFRAddon",
 			"version": "1.7.x r5",
+			"priority": "2",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=2150"
 		}
 	],
@@ -315,11 +381,13 @@
 		{
 			"name": "NotEnoughItems",
 			"version": "1.0.4.107",
+			"priority": "5",
 			"url": "http://chickenbones.net/Pages/links.html"
 		},
 		{
 			"name": "Waila",
 			"version": "1.5.10",
+			"priority": "5",
 			"url": "http://www.curse.com/mc-mods/minecraft/waila#t1:other-downloads"
 		}
 	],
@@ -327,6 +395,7 @@
 		{
 			"name": "Dynmap",
 			"version": "v2.2",
+			"priority": "4",
 			"url": "http://minecraft.curseforge.com/projects/dynmapforge/files"
 		}
 	]
