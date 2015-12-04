@@ -7,12 +7,6 @@
 			"url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html"
 		},
 		{
-			"name": "RailCraft",
-			"version": "9.8.0.0",
-			"priority": "3",
-			"url": "http://www.railcraft.info/releases/"
-		},
-		{
 			"name": "BluePower",
 			"version": "0.2.962",
 			"priority": "4",
@@ -92,13 +86,6 @@
 			"url": "http://teamcofh.com/downloads/"
 		},
 		{
-			"name": "MineFactory Reloaded",
-			"version": "2.8.0-104",
-			"priority": "3",
-			"require": "CoFH Core",
-			"url": "http://teamcofh.com/downloads/"
-		},
-		{
 			"name": "Applied Energistics2",
 			"version": "rv2.stable build 10",
 			"priority": "5",
@@ -159,12 +146,6 @@
 			"url": "http://teamcofh.com/downloads/"
 		},
 		{
-			"name": "OpenModularTurrets",
-			"version": "2.1.6-187",
-			"priority": "",
-			"url": "http://www.curse.com/mc-mods/minecraft/224663-openmodularturrets"
-		},
-		{
 			"name": "ArsMagica2",
 			"version": "1.4.0.008",
 			"priority": "3",
@@ -194,12 +175,6 @@
 			"version": "1.1.0",
 			"priority": "",
 			"url": "http://minecraft.curseforge.com/projects/applecore"
-		},
-		{
-			"name": "The Spice of Life",
-			"version": "1.3.0",
-			"priority": "1",
-			"url": "http://www.curse.com/mc-mods/minecraft/220811-the-spice-of-life"
 		},
 		{
 			"name": "竹Mod",
@@ -238,31 +213,6 @@
 			"url": "http://chickenbones.net/Pages/links.html"
 		},
 		{
-			"name": "StationMod",
-			"version": "v3",
-			"priority": "2",
-			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=5440"
-		},
-		{
-			"name": "Invation Mod",
-			"version": "1.1.2",
-			"priority": "3",
-			"url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2235041-invasion-mod-so-you-think-your-base-is-tough"
-		},
-		{
-			"name": "Mo' Creatures Mod",
-			"version": "v6.3.1",
-			"priority": "2",
-			"require": "CustomMobSpawner",
-			"url": "http://mocreatures.org/downloads"
-		},
-		{
-			"name": "CustomMobSpawner",
-			"version": "3.3.0",
-			"priority": "2",
-			"url": "http://mocreatures.org/downloads"
-		},
-		{
 			"name": "The Twilight Forest",
 			"version": "2.3.7",
 			"priority": "2.5",
@@ -287,22 +237,10 @@
 			"url": "http://files.minecraftforge.net/IronChests2/"
 		},
 		{
-			"name": "Kamen Rider Craft2",
-			"version": "v0.07",
-			"priority": "2",
-			"url": "http://www.planetminecraft.com/mod/kamen-rider-craft-2-forge/"
-		},
-		{
 			"name": "蛇口Mod",
 			"version": "1.0.2a",
 			"priority": "3",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=6984&start=40"
-		},
-		{
-			"name": "Lamps And Traffic Lights",
-			"version": "1.2",
-			"priority": "1",
-			"url": "http://www.planetminecraft.com/mod/splamps-and-traffic-lights-latlforge/"
 		},
 		{
 			"name": "BiblioCraft",
@@ -335,10 +273,16 @@
 			"url": "http://files.minecraftforge.net/ForgeMultipart/"
 		},
 		{
-			"name": "Extra Utilities",
-			"version": "1.2.12",
-			"priority": "2",
-			"url": "http://www.curse.com/mc-mods/minecraft/225561-extra-utilities"
+			"name": "QmunityLib",
+			"version": "0.1.114",
+			"priority": "1",
+			"url": "http://www.curse.com/mc-mods/minecraft/224785-qmunitylib"
+		},
+		{
+			"name": "RailCraft",
+			"version": "9.8.0.0",
+			"priority": "3",
+			"url": "http://www.railcraft.info/releases/"
 		},
 		{
 			"name": "MCEconomy2",
@@ -347,34 +291,23 @@
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=17110"
 		},
 		{
-			"name": "OpenModsLib",
-			"version": "0.8",
-			"priority": "1",
-			"url": "http://www.openmods.info/"
-		},
-		{
-			"name": "OpenBlocks",
-			"version": "1.4.4",
-			"priority": "1",
-			"url": "http://www.openmods.info/"
-		},
-		{
-			"name": "QmunityLib",
-			"version": "0.1.114",
-			"priority": "1",
-			"url": "http://www.curse.com/mc-mods/minecraft/224785-qmunitylib"
-		},
-		{
-			"name": "CodeChickenCore",
-			"version": "1.0.6.44",
-			"priority": "5",
-			"url": "http://chickenbones.net/Pages/links.html"
+			"name": "MineFactory Reloaded",
+			"version": "2.8.0-104",
+			"priority": "3",
+			"require": "CoFH Core",
+			"url": "http://teamcofh.com/downloads/"
 		},
 		{
 			"name": "MFRAddon",
 			"version": "1.7.x r5",
 			"priority": "2",
 			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=2150"
+		},
+		{
+			"name": "CodeChickenCore",
+			"version": "1.0.6.44",
+			"priority": "5",
+			"url": "http://chickenbones.net/Pages/links.html"
 		}
 	],
 	"recommended": [
@@ -389,6 +322,75 @@
 			"version": "1.5.10",
 			"priority": "5",
 			"url": "http://www.curse.com/mc-mods/minecraft/waila#t1:other-downloads"
+		}
+	],
+	"old": [
+		{
+			"name": "Mo' Creatures Mod",
+			"version": "v6.3.1",
+			"priority": "2",
+			"require": "CustomMobSpawner",
+			"url": "http://mocreatures.org/downloads"
+		},
+		{
+			"name": "CustomMobSpawner",
+			"version": "3.3.0",
+			"priority": "2",
+			"url": "http://mocreatures.org/downloads"
+		},
+		{
+			"name": "Extra Utilities",
+			"version": "1.2.12",
+			"priority": "2",
+			"url": "http://www.curse.com/mc-mods/minecraft/225561-extra-utilities"
+		},
+		{
+			"name": "Invation Mod",
+			"version": "1.1.2",
+			"priority": "3",
+			"url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2235041-invasion-mod-so-you-think-your-base-is-tough"
+		},
+		{
+			"name": "Kamen Rider Craft2",
+			"version": "v0.07",
+			"priority": "2",
+			"url": "http://www.planetminecraft.com/mod/kamen-rider-craft-2-forge/"
+		},
+		{
+			"name": "Lamps And Traffic Lights",
+			"version": "1.2",
+			"priority": "1",
+			"url": "http://www.planetminecraft.com/mod/splamps-and-traffic-lights-latlforge/"
+		},
+		{
+			"name": "OpenModularTurrets",
+			"version": "2.1.6-187",
+			"priority": "",
+			"url": "http://www.curse.com/mc-mods/minecraft/224663-openmodularturrets"
+		},
+		{
+			"name": "OpenModsLib",
+			"version": "0.8",
+			"priority": "1",
+			"url": "http://www.openmods.info/"
+		},
+		{
+			"name": "OpenBlocks",
+			"version": "1.4.4",
+			"priority": "1",
+			"url": "http://www.openmods.info/"
+		},
+		{
+			"name": "The Spice of Life",
+			"version": "1.3.0",
+			"priority": "1",
+			"url": "http://www.curse.com/mc-mods/minecraft/220811-the-spice-of-life"
+		},
+		{
+			"name": "StationMod",
+			"version": "v3",
+			"priority": "2",
+			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=5440"
 		}
 	],
 	"server-side": [
