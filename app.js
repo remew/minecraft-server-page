@@ -30,10 +30,13 @@
 		var versionTd = document.createElement('td');
 		var linkTd = document.createElement('td');
 		nameTd.innerText = name;
+		nameTd.textContent = name;
 		versionTd.innerText = version;
+		versionTd.textContent = version;
 		var a = document.createElement('a');
 		a.setAttribute('href', link);
 		a.innerText = 'here';
+		a.textContent = 'here';
 		linkTd.appendChild(a);
 		tr.appendChild(nameTd);
 		tr.appendChild(versionTd);
