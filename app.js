@@ -43,4 +43,33 @@
 		tr.appendChild(linkTd);
 		return tr;
 	}
+var socket = io.connect('http://minecraft.remew.net:3000');
+
+socket.on('State', function(data) {
+	var state = document.getElementById('state');
+	var stateText = data.message || data.state;
+	if (stateText === 'Started') {
+		state.innerText = '現在起動中';
+		state.textContent = '現在起動中';
+	} else {
+		state.innerText = '現在停止中';
+		state.textContent = '現在停止中';
+	}
+	console.log(data);
+});
+
+socket.on('Chat', function(data) {
+	console.log(data);
+});
+
+socket.on('Users', function(data) {
+	console.log(data);
+});
+socket.on('Login', function(data) {
+	userList.push(data.user);
+	console.log(data);
+});
+socket.on('Logout', function(data) {
+	console.log(data);
+});
 })();
