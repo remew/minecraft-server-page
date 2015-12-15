@@ -4,71 +4,82 @@
 			"name": "Minecraft Forge",
 			"version": "10.13.4.1558",
 			"priority": "5",
-			"url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html"
+			"url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html",
+			"installation": "\"Show all downloads\"をクリックしてVersion 10.13.4.1558をダウンロード"
 		},
 		{
 			"name": "BluePower",
 			"version": "0.2.962",
 			"priority": "4",
-			"url": "http://minecraft.curseforge.com/projects/blue-power/files"
+			"url": "http://minecraft.curseforge.com/projects/blue-power/files?filter-game-version=2020709689%3A4449",
+			"installation": "\"BluePower-1.7.10-0.2.962-universal.jar\"をダウンロード"
 		},
 		{
 			"name": "BuildCraft",
 			"version": "7.0.9",
 			"priority": "5",
-			"url": "http://www.mod-buildcraft.com/pages/download.html"
+			"url": "http://www.mod-buildcraft.com/releases/BuildCraft/7.0.9/",
+			"installation": "\"buildcraft-7.0.9.jar\"をダウンロード"
 		},
 		{
 			"name": "BuildCraft Compat",
 			"version": "7.0.9",
 			"priority": "5",
-			"url": "http://www.curse.com/mc-mods/minecraft/233140-buildcraft-compat#t1:other-downloads"
+			"url": "http://www.mod-buildcraft.com/releases/BuildCraftCompat/7.0.9/",
+			"installation": "\"buildcraft-compat-7.0.9.jar\"をダウンロード"
 		},
 		{
 			"name": "AdditionalPipes",
 			"version": "4.7.0",
 			"priority": "5",
-			"url": "https://github.com/tcooc/AdditionalPipesBC/releases"
+			"url": "https://github.com/tcooc/AdditionalPipesBC/releases/tag/4.7.0",
+			"installation": "\"additionalpipes-4.7.0.jar\"をダウンロード"
 		},
 		{
 			"name": "LogisticsPipes",
 			"version": "0.9.1.15",
 			"priority": "5",
-			"url": "http://ci.thezorro266.com/job/LogisticsPipes-0.9-mc17-bc7/"
+			"url": "http://ci.thezorro266.com/job/LogisticsPipes-0.9-mc17-bc7/15/",
+			"installation": "\"logisticspipes-0.9.1.15.jar\"をダウンロード"
 		},
 		{
 			"name": "ExtraTanks",
 			"version": "for BC7.0.9~",
 			"priority": "5",
-			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=2150"
+			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=2150",
+			"installation": "「おまけ」から\"大容量タンク-ExtraTanks- for BC7.0.9～\"をダウンロード"
 		},
 		{
 			"name": "QuarryPlus",
 			"version": "2.1.0",
 			"priority": "5",
-			"url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=8076"
+			"url": "http://sourceforge.net/projects/yogpstopmcmods/files/Release/jar/QuarryPlus/Minecraft%201.7.10%20with%20BC%206.1.X%20or%20newer/",
+			"installation": "\"QuarryPlus-1.7.10-2.1.0.jar\"をダウンロード"
 		},
 		{
 			"name": "IndustrialCraft2 experimental",
 			"version": "2.2.796",
 			"priority": "5",
-			"url": "http://jenkins.ic2.player.to/job/IC2_experimental/"
+			"url": "http://jenkins.ic2.player.to/job/IC2_experimental/796/",
+			"installation": "\"industrialcraft-2-2.2.796-experimental.jar\"をダウンロード"
 		},
 		{
 			"name": "GregTech Unofficial",
 			"version": "5.08.32",
 			"priority": "5",
-			"url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=11488"
+			"url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=11488",
+			"installation": "\"gregtech_1.7.10-5.08.32.jar\"をダウンロード。なければその上の\"Old Versions and Dev-Versions here.\"のリンクから探してください"
 		},
 		{
 			"name": "Advanced Solar Panels",
 			"version": "3.5.1",
 			"priority": "5",
-			"url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291"
+			"url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291",
+			"installation": "\"AdvancedSolarPanel-1.7.10-3.5.1.jar\"をダウンロード。なければその上の\"Download old versions here\"のリンクから探してください"
 		},
 		{
 			"name": "ModularPowersuits",
-			"version": "0.11.0.284",
+			"version": "0.11.0.291",
 			"priority": "5",
 			"require": "Numina",
 			"url": "http://minecraft.curseforge.com/projects/modular-powersuits/files"
@@ -93,7 +104,7 @@
 		},
 		{
 			"name": "ExtraCells2",
-			"version": "2.2.73b129",
+			"version": "2.3.3b162",
 			"priority": "5",
 			"url": "http://www.curse.com/mc-mods/minecraft/229218-extracells2"
 		},
