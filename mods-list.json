@@ -79,7 +79,7 @@
 		},
 		{
 			"name": "ModularPowersuits",
-			"version": "0.11.0.284",
+			"version": "0.11.0.291",
 			"priority": "5",
 			"require": "Numina",
 			"url": "http://minecraft.curseforge.com/projects/modular-powersuits/files"
@@ -104,7 +104,7 @@
 		},
 		{
 			"name": "ExtraCells2",
-			"version": "2.2.73b129",
+			"version": "2.3.3b162",
 			"priority": "5",
 			"url": "http://www.curse.com/mc-mods/minecraft/229218-extracells2"
 		},
